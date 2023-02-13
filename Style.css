@@ -1,0 +1,25 @@
+table{
+    font-family: sans-serif;
+    font-size: 14px;
+    border-collapse:collapse;
+    /*
+    .color1 {color: #efb8ff;}
+    .color2 {color: #ffd0ff;}
+    .color3 {color: #201731;}
+    .color4 {color: #78767b;}
+    .color5 {color: #e2e2e2;}
+    */
+}
+th{
+    border-style: solid;
+    border-width: 1px;
+    font-size: 18px;
+    padding: 10px;
+    background: #efb8ff;
+}
+td{
+    border-style: solid;
+    border-width: 1px;
+    background: #e2e2e2;
+    padding: 10px;
+}
